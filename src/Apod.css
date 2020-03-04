@@ -1,0 +1,22 @@
+.apod-card {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+}
+
+.apod-img {
+    width: 100%;
+}
+
+.apod-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem;
+}
+
+.apod-date {
+    margin-left: 1.5rem;
+    margin-bottom: 1.5rem;
+}
